@@ -8,9 +8,9 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/specter25/golang-blockchain/blockchain"
-	"github.com/specter25/golang-blockchain/network"
-	"github.com/specter25/golang-blockchain/wallet"
+	"github.com/developer-student-club-thapar/supply-chain/blockchain"
+	"github.com/developer-student-club-thapar/supply-chain/network"
+	"github.com/developer-student-club-thapar/supply-chain/wallet"
 )
 
 type CommandLine struct {

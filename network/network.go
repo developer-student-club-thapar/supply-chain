@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/specter25/golang-blockchain/blockchain"
+	"github.com/developer-student-club-thapar/supply-chain/blockchain"
 	"gopkg.in/vrecan/death.v3" // when we hit ctrl+c we need to close the database this forks for that
 )
 
